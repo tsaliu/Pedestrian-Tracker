@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1512413361 source:d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\indoorpeople\main.cpp
+	"opencv2/highgui.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/video.hpp"
+	"opencv2/opencv.hpp"
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<vector>
+	"findmissing.h"
+	<armadillo>
+	"kalman.hpp"
+
+1510941577 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\indoorpeople\findmissing.h
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<numeric>
+
+1512326799 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\indoorpeople\kalman.hpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<armadillo>
+	"model.hpp"
+
+1512246033 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\indoorpeople\model.hpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<armadillo>
+

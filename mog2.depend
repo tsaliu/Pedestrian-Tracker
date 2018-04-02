@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1512330738 source:d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\test2\main.cpp
+	"opencv2/highgui.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/video.hpp"
+	"opencv2/opencv.hpp"
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<vector>
+	"findmissing.h"
+	<armadillo>
+	"kalman.hpp"
+
+1510941577 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\test2\findmissing.h
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<numeric>
+
+1512326799 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\test2\kalman.hpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<armadillo>
+	"model.hpp"
+
+1512246033 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\test2\model.hpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<armadillo>
+
+1512332262 source:d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\testat\main.cpp
+	"opencv2/highgui.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/video.hpp"
+	"opencv2/opencv.hpp"
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<vector>
+	"findmissing.h"
+	<armadillo>
+	"kalman.hpp"
+
+1510941577 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\testat\findmissing.h
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<numeric>
+
+1512326799 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\testat\kalman.hpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<armadillo>
+	"model.hpp"
+
+1512246033 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\testat\model.hpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<armadillo>
+
+1512355588 source:d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\indoorpeople\main.cpp
+	"opencv2/highgui.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/video.hpp"
+	"opencv2/opencv.hpp"
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<vector>
+	"findmissing.h"
+	<armadillo>
+	"kalman.hpp"
+
+1510941577 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\indoorpeople\findmissing.h
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<numeric>
+
+1512326799 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\indoorpeople\kalman.hpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<armadillo>
+	"model.hpp"
+
+1512246033 d:\dropbox\mcmaster\ece769 multimodel video tracking and fusion\assignment2\indoorpeople\model.hpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<vector>
+	<armadillo>
+
